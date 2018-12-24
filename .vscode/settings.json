@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/eleven-junichi2/.local/share/virtualenvs/nidhicraft-JXGVESAI/bin/python"
+    "python.pythonPath": "/home/eleven-junichi2/.local/share/virtualenvs/nidhicraft-JXGVESAI/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
 }
